@@ -1,0 +1,2 @@
+netty=com.gzh.remoting.transport.netty.client.NettyRpcClient
+socket=com.gzh.remoting.transport.socket.SocketRpcClient
